@@ -12,13 +12,10 @@ I am open to collaborating on web development initiatives and learning from expe
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📈 GitHub Activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smcsalva&show_icons=true&theme=gotham)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smcsalva&theme=gotham)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=smcsalva&theme=gotham)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smcsalva&layout=compact&theme=gotham)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
