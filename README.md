@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web development school projects while building a solid foundation in frontend development.<br> 
+I am currently working on web development projects while building a solid foundation in frontend development.<br> 
 I am open to collaborating on web development initiatives and learning from experienced developers. My current focus is on<br>
  strengthening my skills in React.js and gaining practical exposure to Django for backend development as I continue transitioning into software engineering.
 
